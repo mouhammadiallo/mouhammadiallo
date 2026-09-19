@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mouhammad DIALLO</h1>
+<h1 align="center">Hello, I'm Mouhammad DIALLO</h1>
 
 <p align="center">
-  <strong>Computer Science Student | DevOps & Cloud | Linux | Networks & Systems | Data</strong>
+  <strong>Computer Science Student | DevOps & Cloud | Linux | Networks & Systems</strong>
 </p>
 
 <p align="center">
@@ -15,24 +15,24 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Computer Science student at Université Assane Seck de Ziguinchor (UASZ)**, interested in building reliable, scalable and secure IT solutions.
 
 My interests cover several areas of computer science:
 
-- ☁️ **Cloud & DevOps**
-- 🐧 **Linux & System Administration**
-- 🌐 **Networks & Infrastructure**
-- 📊 **Data Analysis & Machine Learning**
-- 💻 **Web & Software Development**
-- 🗄️ **Databases**
+- **Cloud & DevOps**
+- **Linux & System Administration**
+- **Networks & Infrastructure**
+- **Data Analysis & Machine Learning**
+- **Web & Software Development**
+- **Databases**
 
 I'm continuously improving my skills through academic projects, personal projects, labs and hands-on experimentation.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 ```text
 DevOps & Cloud
@@ -47,9 +47,9 @@ I'm currently exploring **AWS, Docker, CI/CD, Linux administration, networking, 
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
-### 💻 Programming
+### Programming
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
@@ -60,7 +60,7 @@ I'm currently exploring **AWS, Docker, CI/CD, Linux administration, networking, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash">
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
@@ -72,7 +72,7 @@ I'm currently exploring **AWS, Docker, CI/CD, Linux administration, networking, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap">
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux">
@@ -83,7 +83,7 @@ I'm currently exploring **AWS, Docker, CI/CD, Linux administration, networking, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS">
 </p>
 
-### 🌐 Networks & Systems
+### Networks & Systems
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux">
@@ -94,7 +94,7 @@ I'm currently exploring **AWS, Docker, CI/CD, Linux administration, networking, 
 
 **Systems:** Linux · Apache · Samba · NFS · Bash · pfSense · Virtualization
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
@@ -102,19 +102,11 @@ I'm currently exploring **AWS, Docker, CI/CD, Linux administration, networking, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite">
 </p>
 
-### 📊 Data & AI
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda">
-</p>
-
 **Currently learning:** Data Analysis · Statistics · Machine Learning · AI fundamentals
 
 ---
 
-## 🔧 Development Environment
+## Development Environment
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
@@ -124,39 +116,16 @@ I'm currently exploring **AWS, Docker, CI/CD, Linux administration, networking, 
 
 ---
 
-## 📌 What I'm Working On
+## What I'm Working On
 
-- ☁️ Building my knowledge in **AWS & Cloud infrastructure**
-- ⚙️ Learning **DevOps practices and CI/CD**
-- 🐧 Improving my **Linux and system administration** skills
-- 🌐 Working on **networking and infrastructure labs**
-- 📊 Developing skills in **data analysis and machine learning**
-- 💻 Building **web and software projects**
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mouhammadiallo/mouhammadiallo/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub statistics">
-
-<img src="https://raw.githubusercontent.com/mouhammadiallo/mouhammadiallo/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Most used languages">
-
-</div>
+- Building my knowledge in **AWS & Cloud infrastructure**
+- Learning **DevOps practices and CI/CD**
+- Improving my **Linux and system administration** skills
+- Working on **networking and infrastructure labs**
+- Developing skills in **data analysis and machine learning**
+- Building **web and software projects**
 
 ---
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/mouhammadiallo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>Learning, building and experimenting with technology.</i>
 </p>
