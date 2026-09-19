@@ -106,16 +106,6 @@ I'm currently exploring **AWS, Docker, CI/CD, Linux administration, networking, 
 
 ---
 
-## Development Environment
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX">
-</p>
-
----
-
 ## What I'm Working On
 
 - Building my knowledge in **AWS & Cloud infrastructure**
